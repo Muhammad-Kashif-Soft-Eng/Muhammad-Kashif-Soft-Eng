@@ -83,23 +83,29 @@ A modern and responsive student management dashboard built with React.js.
 
 ---
 
-### 🛒 E-Commerce Application
+### 🛒 Shopping Cart Management System
 
-A full-stack e-commerce application developed using the MERN/modern JavaScript ecosystem.
+A modern and responsive shopping cart management application built to practice and demonstrate frontend development, state management, and user-friendly UI design.
 
 **Technologies:**
 
-`Next.js` `Express.js` `MongoDB` `Cloudinary` `JWT`
+`React.js` `Vite` `Tailwind CSS` `Zustand` `React Router`
 
 **Features:**
 
-- User authentication
-- Product management
-- Product images
-- REST APIs
-- MongoDB database
-- Responsive interface
-- Deployment
+- Product listing
+- Add to cart functionality
+- Remove products from cart
+- Update product quantities
+- Cart management
+- Product filtering
+- Responsive UI
+- Modern component-based architecture
+- State management with Zustand
+- Client-side routing with React Router
+
+**Live Demo:**  
+https://shopping-cart-management-system-e4dtom25f.vercel.app/
 
 ---
 
